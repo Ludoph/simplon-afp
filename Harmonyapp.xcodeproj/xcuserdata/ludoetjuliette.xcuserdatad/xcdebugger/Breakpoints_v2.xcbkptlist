@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ABF234BE-B4DC-48A4-9A2E-C98222190B2D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBCCB466-68E7-45F5-B5F5-5A0CF17FC1A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomTabBar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "BBCCB466-68E7-45F5-B5F5-5A0CF17FC1A0 - ce76fbc0043761fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Harmonyapp.CustomTabBar.body.getter : some"
+                  moduleName = "Harmonyapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ludoetjuliette/Documents/xCode/untitled%20folder/Harmonyapp/CustomTabBar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "424">
+               </Location>
+               <Location
+                  uuid = "BBCCB466-68E7-45F5-B5F5-5A0CF17FC1A0 - 1881d9461a481776"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.shadow(color: SwiftUI.Color, radius: CoreGraphics.CGFloat, x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in Harmonyapp.CustomTabBar.body.getter : some"
+                  moduleName = "Harmonyapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ludoetjuliette/Documents/xCode/untitled%20folder/Harmonyapp/CustomTabBar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "872">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
